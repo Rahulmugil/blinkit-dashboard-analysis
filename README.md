@@ -57,6 +57,6 @@ Here’s a complete visual walkthrough of the dashboard:
 - Blinkit_Dashboard.pbix`: You can open this file in Power BI Desktop to explore the report structure, visuals, and data model.
 
 ### 📬 Contact
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/rahulmudgil) for feedback or collaboration!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahulmudgil20) for feedback or collaboration!
 
 ![Dashboard Preview](images/dashboard_preview.png)
